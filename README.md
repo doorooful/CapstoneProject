@@ -1,6 +1,6 @@
 # CapstoneProject
 
-### 📮 DocumentHTML based Electronic Document Handling System
+### Smart Cloud Storage
   DocumentHTML 기반의 전자문서 처리 시스템  
 
 
